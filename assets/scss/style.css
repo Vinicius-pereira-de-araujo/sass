@@ -1,0 +1,23 @@
+.btn {
+  width: 200px;
+  padding: 20px 10px;
+  background: none;
+  border: 0;
+  border-radius: 10px;
+  display: block;
+  margin: 10px 0;
+}
+.btn.btn-laranja {
+  background: red;
+  color: #fff;
+}
+.btn.btn-roxo {
+  background: purple;
+  color: #fff;
+}
+.btn.btn-amarelo {
+  background: yellow;
+  color: #000;
+}
+
+/*# sourceMappingURL=style.css.map */
